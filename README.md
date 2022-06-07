@@ -20,7 +20,7 @@
    docker exec -it alura-challenge-devops_web_1 bash
    ```   
    
-   1.1. Run the command:
+   3.1. Run the command:
    
    ```bash
    python manage.py createsuperuser
